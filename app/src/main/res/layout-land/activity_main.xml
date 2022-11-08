@@ -39,7 +39,7 @@
             android:layout_weight="1"
             android:layout_marginTop="20dp"
             android:useDefaultMargins="true"
-            android:columnCount="4">
+            android:columnCount="7">
             <Button
                 android:id="@+id/key_ac"
                 android:layout_width="wrap_content"
